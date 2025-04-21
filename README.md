@@ -2,6 +2,8 @@
 
 [![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickfleith)](https://github.com/patrickfleith/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickfleith)](https://github.com/patrickfleith/github-readme-stats)
+
 <!--
 **patrickfleith/patrickfleith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
