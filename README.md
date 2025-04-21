@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I’m currently working on [datafast](https://patrickfleith.github.io/datafast/) an open-source python package for high-quality synthetic text data generation for your LLM project.
+*Follow for work updates on LLM Engineering, Datasets and Evals*
 
 <!--
 **patrickfleith/patrickfleith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
