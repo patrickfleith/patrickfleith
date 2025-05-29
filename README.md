@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Hi, my name is Patrick, 31, French (🇫🇷), trained Space System Engineer who gradually turned into a passionated Data Scientist. 
+
 ### Open-Source
 
 - I built [datafast](https://patrickfleith.github.io/datafast/) an open-source python package for high-quality synthetic text data generation for LLM projects.
@@ -16,7 +18,5 @@
 
 <!--
 **patrickfleith/patrickfleith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 
 -->
