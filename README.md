@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, my name is Patrick, 31, French 🇫🇷, a trained Space System Engineer who gradually turned into a passionated Data Scientist. 
+Hi, my name is Patrick, 31, French 🇫🇷, a passionated Data Scientist with Space Engineering domain expertise. 
 
 ### Open-Source
 
