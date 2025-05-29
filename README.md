@@ -1,19 +1,22 @@
 ## Hi there 👋
 
-I’m currently working on [datafast](https://patrickfleith.github.io/datafast/) an open-source python package for high-quality synthetic text data generation for your LLM project.
-*Follow for work updates on LLM Engineering, Datasets and Evals*
+### Open-Source
+
+- I built [datafast](https://patrickfleith.github.io/datafast/) an open-source python package for high-quality synthetic text data generation for LLM projects.
+- I make domain-specific [datasets](https://www.kaggle.com/work/datasets) for the community, because I love to empower teams with better data.
+
+### Day Job
+
+- 💼 My job at Solenix is to apply Data Science to improve Space Mission Design and Operations for the European Space Agency.
+
+### Others
+
+- 🌱 I’m currently learning about MCPc
+- 📫 Reach me: https://www.linkedin.com/in/patrick-fleith/
 
 <!--
 **patrickfleith/patrickfleith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [datafast](https://patrickfleith.github.io/datafast/) an open-source python package for high-quality synthetic text data generation.
-- 🌱 I’m currently learning about LLM 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 
 -->
