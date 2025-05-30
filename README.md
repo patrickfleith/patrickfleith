@@ -9,7 +9,7 @@ Hi, my name is Patrick, 31, French 🇫🇷, a passionated Data Scientist with S
 
 ### Day Job
 
-- 💼 My job at Solenix is to build AI systems in Space Mission Design and Operations for the European Space Agency.
+- 💼 My job at Solenix is to build AI systems for Space Mission Design and Operations for clients like the European Space Agency.
 
 ### Others
 
