@@ -13,7 +13,7 @@ Hi, my name is Patrick, 31, French 🇫🇷, a passionated Data Scientist with S
 
 ### Others
 
-- 🌱 I’m currently learning about MCPc
+- 🌱 I’m currently learning about MCPs
 - 📫 Reach me: https://www.linkedin.com/in/patrick-fleith/
 
 <!--
