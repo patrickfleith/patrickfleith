@@ -5,7 +5,7 @@ Hi, my name is Patrick, 31, French 🇫🇷, a passionated Data Scientist with S
 ### Open-Source
 
 - I built [datafast](https://patrickfleith.github.io/datafast/) a package to generate synthetic text dataset for your LLM projects.
-- I make domain-specific [datasets](https://www.kaggle.com/work/datasets) for the community, because I love to empower teams with better data.
+- I make domain-specific [datasets](https://www.kaggle.com/patrickfleith/datasets) for the community, because I love to empower teams with better data.
 
 ### Day Job
 
