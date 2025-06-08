@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, my name is Patrick, French 🇫🇷, passionated ML Engineer with expertise in Space Systems Engineering 🚀
+Hi, my name is Patrick, French 🇫🇷, passionated ML and LLM Engineer with background in Space Systems Engineering 🚀
 
 ### Open-Source
 
