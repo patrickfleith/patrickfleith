@@ -15,6 +15,7 @@ Hi, my name is Patrick, French 🇫🇷, passionated ML Engineer with background
 
 - 🌱 I’m currently learning about MCPs
 - 📫 Reach me: https://www.linkedin.com/in/patrick-fleith/
+- 🤗 HuggingFace: https://huggingface.co/patrickfleith
 
 <!--
 **patrickfleith/patrickfleith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
