@@ -9,7 +9,7 @@ Hi, my name is Patrick, French 🇫🇷, passionated ML Engineer with background
 
 ### Day Job
 
-- 💼 My job at Solenix is to build AI systems for Space Mission Design and Operations for clients like the European Space Agency.
+- 💼 I build AI systems for Space Mission Design and Operations, for clients like the European Space Agency.
 
 ### Others
 
