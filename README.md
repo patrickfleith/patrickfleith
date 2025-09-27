@@ -5,6 +5,7 @@ Hi, my name is Patrick, French 🇫🇷, passionated ML Engineer with background
 ### Open-Source
 
 - I built [datafast](https://patrickfleith.github.io/datafast/) a package to generate synthetic text dataset for your LLM projects.
+- I contribute to [🤗 YourBench](https://github.com/huggingface/yourbench/pulls?q=is%3Apr+author%3Apatrickfleith+), a library to transform document into AI-ready datasets
 - I make domain-specific [datasets](https://www.kaggle.com/patrickfleith/datasets) for the community, because I love to empower teams with better data.
 
 ### Day Job
