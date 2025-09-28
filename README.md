@@ -15,7 +15,7 @@ Hi, my name is Patrick, a passionated ML Engineer, French 🇫🇷
 - 💼 I build AI systems, datasets, and evaluation methods @Solenix to help high-stakes operational teams, engineers and scientists, with a focus on space mission design and operations.
 
 **Some clients**
-- European Space Agency Operations Centre.
+- European Space Agency Operations Centre
 - Swiss Armed Forces
 - European Central Bank
 - European Space Research and Technology Centre
